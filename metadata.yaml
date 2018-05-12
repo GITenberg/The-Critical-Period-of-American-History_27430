@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/525
     wikipedia: http://en.wikipedia.org/wiki/John_Fiske
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27430#The-Critical-Period-of-American-History
 gutenberg_issued: '2008-12-07'
 gutenberg_type: Text
 identifiers:
