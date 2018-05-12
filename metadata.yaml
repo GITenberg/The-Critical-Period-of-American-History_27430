@@ -1,0 +1,30 @@
+_repo: The-Critical-Period-of-American-History_27430
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fiske, John
+    aliases:
+    - Green, Edmund Fisk
+    - Fisk, John
+    birthdate: 1842
+    deathdate: 1901
+    gutenberg_agent_id: '525'
+    url: http://www.gutenberg.org/2009/agents/525
+    wikipedia: http://en.wikipedia.org/wiki/John_Fiske
+description: ''
+gutenberg_issued: '2008-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27430'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Confederation, 1783-1789'
+- !lcc 'E300'
+title: The Critical Period of American History
+url: http://www.gutenberg.org/ebooks/27430
